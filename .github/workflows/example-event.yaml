@@ -11,5 +11,5 @@ jobs:
         with:
           token: ${{ secrets.REPO_ACCESS_TOKEN }}
           # repository: PardusEidolon/antora-example-site # add build repo later
-          event-type: antora-event-1
+          event-type: yumi-spec
           client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
