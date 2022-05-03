@@ -1,0 +1,4 @@
+// .example title and top level item
+* xref:index.adoc[]
+** xref:phases.adoc[]
+** xref:greece.adoc[]

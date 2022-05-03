@@ -1,0 +1,19 @@
+= Classical Greece
+:description: A description of the page stored in an HTML meta tag.
+:sectanchors:
+:imagesdir: ./images
+:url-repo: https://github.com/PardusEidolon/antoraTemplate
+:page-tags: html,antora,asciidocs
+
+
+== Classical Greece
+
+image::parthenon.jpg[moon,350,350,role=left,role=text-left]
+
+Classical Greece was a period of around 200 years (the 5th and 4th centuries BC) in Ancient Greece,[1] marked by much of the eastern Aegean and northern regions of Greek culture (such as Ionia and Macedonia) gaining increased autonomy from the Persian Empire; the peak flourishing of democratic Athens; the First and Second Peloponnesian Wars; the Spartan and then Theban hegemonies; and the expansion of Macedonia under Philip II. Much of the early defining politics, artistic thought (architecture, sculpture), scientific thought, theatre, literature and philosophy of Western civilization derives from this period of Greek history, which had a powerful influence on the later Roman Empire. The Classical era ended after Philip II's unification of most of the Greek world against the common enemy of the Persian Empire, which was conquered within 13 years during the wars of Alexander the Great, Philip's son.
+
+== 5th Century BC
+
+This century is essentially studied from the Athenian outlook because Athens has left us more narratives, plays, and other written works than any of the other ancient Greek states. From the perspective of Athenian culture in Classical Greece, the period generally referred to as the 5th century BC extends slightly into the 6th century BC. In this context, one might consider that the first significant event of this century occurs in 508 BC, with the fall of the last Athenian tyrant and Cleisthenes' reforms. However, a broader view of the whole Greek world might place its beginning at the Ionian Revolt of 500 BC, the event that provoked the Persian invasion of 492 BC. The Persians were defeated in 490 BC. A second Persian attempt, in 481 - 479 BC, failed as well, despite having overrun much of modern-day Greece (north of the Isthmus of Corinth) at a crucial point during the war following the Battle of Thermopylae and the Battle of Artemisium.[2][3] The Delian League then formed, under Athenian hegemony and as Athens' instrument. Athens' successes caused several revolts among the allied cities, all of which were put down by force, but Athenian dynamism finally awoke Sparta and brought about the Peloponnesian War in 431 BC. After both forces were spent, a brief peace came about; then the war resumed to Sparta's advantage. Athens was definitively defeated in 404 BC, and internal Athenian agitations mark the end of the 5th century BC in Greece.
+
+Since its beginning, Sparta had been ruled by a diarchy. This meant that Sparta had two kings ruling concurrently throughout its entire history. The two kingships were both hereditary, vested in the Agiad dynasty and the Eurypontid dynasty. According to legend, the respective hereditary lines of these two dynasties sprang from Eurysthenes and Procles, twin descendants of Hercules. They were said to have conquered Sparta two generations after the Trojan War.

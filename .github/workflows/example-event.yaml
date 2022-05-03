@@ -1,0 +1,15 @@
+name: example_dispatch
+
+on: workflow_dispatch
+
+jobs:
+  dispatch_config:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
+          # repository: PardusEidolon/antora-example-site # add build repo later
+          event-type: antora-event-1
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
