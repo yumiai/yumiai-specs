@@ -1,5 +1,5 @@
-name: example-a
-title: Example-a
+name: yumiai-spec
+title: yumiai-spec
 version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
